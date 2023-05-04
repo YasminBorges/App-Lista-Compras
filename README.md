@@ -1,0 +1,2 @@
+# AppListaCompras
+Aplicativo React Native
